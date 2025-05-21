@@ -1,0 +1,5 @@
+git clone "ssh id"
+git add .
+git commit
+git push main
+
